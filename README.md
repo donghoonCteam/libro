@@ -7,7 +7,7 @@
 ### 1. [Libro]**
 - **설명**: 이 프로젝트는 온라인 서점을 구현해보기 위해 만들었습니다.
 - **기술 스택**: JAVA, HTML5, CSS3, JSP, MYSQL, AWS, JQUERY, REACT, SRPING FRAMEWORK, JAVASCRIPT
-- **링크**: [GitHub 저장소]((https://github.com/donghoonCteam/libro/tree/main))
+- **링크**: https://github.com/donghoonCteam/libro/tree/main
 
 ## 🛠 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
